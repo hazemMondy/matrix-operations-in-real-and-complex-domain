@@ -1,0 +1,17 @@
+﻿  CpxMat.cpp
+C:\Users\oeb\source\repos\complex lib\CpxMat.h(14,48): error C2039: 'string': is not a member of 'std'
+C:\Users\oeb\source\repos\complex lib\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+C:\Users\oeb\source\repos\complex lib\CpxMat.h(14,54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\oeb\source\repos\complex lib\CpxMat.h(14,54): error C2143: syntax error: missing ',' before '&'
+C:\Users\oeb\source\repos\complex lib\CpxMat.h(15,52): error C2039: 'string': is not a member of 'std'
+C:\Users\oeb\source\repos\complex lib\predefined C++ types (compiler internal)(339): message : see declaration of 'std'
+C:\Users\oeb\source\repos\complex lib\CpxMat.h(15,58): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\oeb\source\repos\complex lib\CpxMat.h(15,58): error C2143: syntax error: missing ',' before '&'
+C:\Users\oeb\source\repos\complex lib\CpxMat.cpp(45,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\oeb\source\repos\complex lib\CpxMat.cpp(65,14): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\oeb\source\repos\complex lib\CpxMat.cpp(71,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeb\source\repos\complex lib\CpxMat.cpp(101,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeb\source\repos\complex lib\CpxMat.cpp(121,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\oeb\source\repos\complex lib\CpxMat.cpp(139,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\oeb\source\repos\complex lib\CpxMat.cpp(320,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\oeb\source\repos\complex lib\CpxMat.cpp(367,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
